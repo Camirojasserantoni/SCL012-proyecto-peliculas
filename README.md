@@ -44,10 +44,9 @@ lo aprendido hasta ahora.
 personas en un equipo de trabajo, mayor complejidad para: tener un entendimiento
 común, seguir el flujo de trabajo, buscar consensos, etc.
 
- ## **Parte Obligatoria**
+ ## **Ejes importantes**
 
- * Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
+ * Detallar planeamiento del trabajo en un repositorio único por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
 y las inspiraciones utilizadas para definir el producto.
 * Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
 proyecto.
